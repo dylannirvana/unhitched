@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Being safe</title>
+    <title>Are you unhitched?</title>
     <link href='http://fonts.googleapis.com/css?family=Poiret+One|Raleway' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
 
   </head>
-  <body id="beingSafe">
+  <body id="home">
     <section class="container">
         <?php include '_/components/php/header.php';  ?>
         <div class="content row">
@@ -45,15 +45,15 @@
                     <section class="col col-md-6">
                         <h3>five</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
+                    </section> <!-- 6 column -->
                     <section class="col col-md-6">
-                    </section>
+                    </section> <!-- 6 column -->
                 </div> <!-- bottom -->
+            <?php include '_/components/php/footer.php';  ?>
             </section> <!-- sidebar -->
         </div> <!-- content -->
     </section> <!-- container -->
     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscripts.js"></script>
   </body>

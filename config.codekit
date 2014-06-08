@@ -92,7 +92,7 @@
 		},
 	"\/_\/components\/js\/jquery.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/jquery.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/jquery-ck.js",
@@ -1587,6 +1587,42 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/authors.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/authors.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/carousel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/carousel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -1627,11 +1663,239 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/artists.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/artists.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/beingSafe.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/beingSafe.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/engageUs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/engageUs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gettingOut.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gettingOut.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/images\/authors\/Barot_Bellingham_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12755,
+		"inputAbbreviatedPath": "\/images\/authors\/Barot_Bellingham_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/Barot_Bellingham_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/Constance_Smith_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12795,
+		"inputAbbreviatedPath": "\/images\/authors\/Constance_Smith_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/Constance_Smith_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/Jennifer_Jerome_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15361,
+		"inputAbbreviatedPath": "\/images\/authors\/Jennifer_Jerome_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/Jennifer_Jerome_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/Jonathan_Ferrar_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13319,
+		"inputAbbreviatedPath": "\/images\/authors\/Jonathan_Ferrar_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/Jonathan_Ferrar_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/tn\/Barot_Bellingham_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6809,
+		"inputAbbreviatedPath": "\/images\/authors\/tn\/Barot_Bellingham_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/tn\/Barot_Bellingham_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/tn\/Constance_Smith_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6497,
+		"inputAbbreviatedPath": "\/images\/authors\/tn\/Constance_Smith_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/tn\/Constance_Smith_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/tn\/Jennifer_Jerome_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7024,
+		"inputAbbreviatedPath": "\/images\/authors\/tn\/Jennifer_Jerome_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/tn\/Jennifer_Jerome_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/tn\/Jonathan_Ferrar_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6243,
+		"inputAbbreviatedPath": "\/images\/authors\/tn\/Jonathan_Ferrar_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/tn\/Jonathan_Ferrar_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/tn\/Xhou_Ta_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6946,
+		"inputAbbreviatedPath": "\/images\/authors\/tn\/Xhou_Ta_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/tn\/Xhou_Ta_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/authors\/Xhou_Ta_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13120,
+		"inputAbbreviatedPath": "\/images\/authors\/Xhou_Ta_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/authors\/Xhou_Ta_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/letterpress_studio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233494,
+		"inputAbbreviatedPath": "\/images\/carousel\/letterpress_studio.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/letterpress_studio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/painting_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180310,
+		"inputAbbreviatedPath": "\/images\/carousel\/painting_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/painting_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/pencil_sketching_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130116,
+		"inputAbbreviatedPath": "\/images\/carousel\/pencil_sketching_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/pencil_sketching_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/phonetn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28281,
+		"inputAbbreviatedPath": "\/images\/phonetn.jpg",
+		"outputAbbreviatedPath": "\/images\/phonetn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/unhitched2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12505,
+		"inputAbbreviatedPath": "\/images\/unhitched2.jpg",
+		"outputAbbreviatedPath": "\/images\/unhitched2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/movingOn.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/movingOn.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/privacy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/privacy.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

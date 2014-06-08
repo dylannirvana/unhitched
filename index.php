@@ -12,53 +12,20 @@
   </head>
   <body id="home">
     <section class="container">
+        <?php include '_/components/php/header.php';  ?>
+        <?php include '_/components/php/carousel.php';  ?>
         <div class="content row">
             <section class="main col col-lg-8">
-                <h2>Are you unhitched?</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <div>
-                    <h2>Authors & Contributors</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                </div> <!-- authors -->
-            </section> <!-- main -->
+            <?php include '_/components/php/article-intro.php';  ?>
+            <?php include '_/components/php/article-authors.php';  ?>
+            </section> <!-- main 8 col -->
             <section class="sidebar col col-lg-4">
-                <div class="top row">
-                    <section class="col col-md-6">
-                        <h3>Getting out</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
-                    <section class="col col-md-6">
-                        <h3>Being safe</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
-                </div> <!-- top -->
-                <div class="middle row">
-                    <section class="col col-md-6">
-                        <h3>Moving on</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
-                    <section class="col col-md-6">
-                        <h3>Engage us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
-                </div> <!-- middle -->
-                <div class="bottom row">
-                    <section class="col col-md-6">
-                        <h3>five</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                    </section>
-                    <section class="col col-md-6">
-                    </section>
-                </div> <!-- bottom -->
+            <?php include '_/components/php/aside-intro.php'; ?>
             </section> <!-- sidebar -->
+           <?php include '_/components/php/footer.php';  ?>
         </div> <!-- content -->
     </section> <!-- container -->
     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscripts.js"></script>
   </body>
