@@ -18,9 +18,17 @@
             <section class="main col col-lg-8">
             <?php include '_/components/php/article-intro.php';  ?>
             <?php include '_/components/php/article-authors.php';  ?>
+            <?php include '_/components/php/article-about.php';  ?>
+            
             </section> <!-- main 8 col -->
             <section class="sidebar col col-lg-4">
             <?php include '_/components/php/aside-intro.php'; ?>
+            <?php include '_/components/php/aside-register.php'; ?>
+                <!-- modal -->
+                <section>
+                    <?php include '_/components/php/aside-services.php'; ?>
+                </section> <!-- modal -->
+            <?php include '_/components/php/aside-events.php'; ?>
             </section> <!-- sidebar -->
            <?php include '_/components/php/footer.php';  ?>
         </div> <!-- content -->

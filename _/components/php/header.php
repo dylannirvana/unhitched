@@ -23,6 +23,15 @@
                     <li><a tabindex="-1" href="engageUs.php">Engage us</a></li> <!-- 5 -->
                 </ul> <!-- ul navbar -->
             </nav> <!-- navbar -->
+            
+            <!-- modal -->
+            <section id="modal" class="modal fade">
+                <div class="modal-body">
+
+                    <img id="modalimage" src="" alt="something" />
+                </div>
+            </section> <!-- modal -->
+            
             <section class="row">
                 <div class="col-md-6">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

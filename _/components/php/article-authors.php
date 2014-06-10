@@ -33,8 +33,8 @@
 
     </div>
         <div class="media">
-            <a class="btn btn-warning pull-left" href="engage.php" >Become a contributor</a>
-        <p class="media-body">Got something to say? Add to the conversation and tell your story. Become a contributor. </p>
+            <a class="btn btn-warning pull-right" href="engage.php" >Become a contributor</a>
+        <p class="media-body">Got something to say? Add to the conversation and tell your story. If you went through something and came out the other side, we want to hear about it. </p>
             
         </div>
 </article> <!-- authors -->
