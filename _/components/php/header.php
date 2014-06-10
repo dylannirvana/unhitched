@@ -2,7 +2,7 @@
     <header class="clearfix">
         <div class="col-lg-4">
             <section id="branding">
-                <a href="index.php"><img src="images/unhitched2.jpg" /></a>
+                <a href="index.php"><img src="images/new.jpg" /></a>
             </section> <!-- branding -->
         </div> <!-- 2 column -->
         <div class="col-lg-8">
