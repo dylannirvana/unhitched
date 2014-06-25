@@ -10,7 +10,7 @@
 		"outputAbbreviatedPath": "\/_\/js\/bootstrap.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/_myscripts.js": {
@@ -21,7 +21,7 @@
 		"outputAbbreviatedPath": "\/_\/js\/myscripts.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/affix.js": {
@@ -179,7 +179,7 @@
 		"outputAbbreviatedPath": "\/_\/css\/mystyles.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -239,7 +239,7 @@
 		"outputAbbreviatedPath": "\/_\/css\/bootstrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -1587,6 +1587,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/article-about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/article-authors.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1605,6 +1614,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_\/components\/php\/aside-events.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-events.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/aside-intro.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1619,6 +1637,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/aside-register.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-services.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-services.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1699,6 +1726,26 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_\/myjavascript.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/myjavascript.js",
+		"outputAbbreviatedPath": "\/_\/min\/myjavascript-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_\/myjavascript.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/myjavascript.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/about.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1743,94 +1790,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/images\/artwork\/artist_on_table.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/artist_on_table.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/artist_on_table.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/artist_on_table_tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/artist_on_table_tn.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/artist_on_table_tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/at_the_museum.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/at_the_museum.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/at_the_museum.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/at_the_museum_tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/at_the_museum_tn.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/at_the_museum_tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/charcoal_artist_painting.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/charcoal_artist_painting.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/charcoal_artist_painting.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/charcoal_artist_painting_tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/charcoal_artist_painting_tn.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/charcoal_artist_painting_tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/framing_workshop.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/framing_workshop.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/framing_workshop.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/artwork\/framing_workshop_tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/artwork\/framing_workshop_tn.jpg",
-		"outputAbbreviatedPath": "\/images\/artwork\/framing_workshop_tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/images\/authors\/Barot_Bellingham_tn.jpg": {
 		"fileType": 16384,
@@ -1975,6 +1934,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/girlwithtype.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19261,
+		"inputAbbreviatedPath": "\/images\/girlwithtype.jpg",
+		"outputAbbreviatedPath": "\/images\/girlwithtype.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1986,6 +1956,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/new.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18814,
+		"inputAbbreviatedPath": "\/images\/new.jpg",
+		"outputAbbreviatedPath": "\/images\/new.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/phonetn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1993,6 +1974,116 @@
 		"initialSize": 28281,
 		"inputAbbreviatedPath": "\/images\/phonetn.jpg",
 		"outputAbbreviatedPath": "\/images\/phonetn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sampleLogo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19435,
+		"inputAbbreviatedPath": "\/images\/sampleLogo.jpg",
+		"outputAbbreviatedPath": "\/images\/sampleLogo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/artist_on_table.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/artist_on_table.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/artist_on_table.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/artist_on_table_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/artist_on_table_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/artist_on_table_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/at_the_museum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/at_the_museum.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/at_the_museum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/at_the_museum_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/at_the_museum_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/at_the_museum_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/charcoal_artist_painting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/charcoal_artist_painting.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/charcoal_artist_painting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/charcoal_artist_painting_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/charcoal_artist_painting_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/charcoal_artist_painting_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/framing_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/framing_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/framing_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/framing_workshop_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/services\/framing_workshop_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/services\/framing_workshop_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/typish.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12072,
+		"inputAbbreviatedPath": "\/images\/typish.jpg",
+		"outputAbbreviatedPath": "\/images\/typish.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2015,6 +2106,28 @@
 		"initialSize": 24259,
 		"inputAbbreviatedPath": "\/images\/unhitchedhz.jpg",
 		"outputAbbreviatedPath": "\/images\/unhitchedhz.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/us\/Hillary_Goldwynn_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11051,
+		"inputAbbreviatedPath": "\/images\/us\/Hillary_Goldwynn_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/us\/Hillary_Goldwynn_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/us\/LaVonne_LaRue_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12469,
+		"inputAbbreviatedPath": "\/images\/us\/LaVonne_LaRue_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/us\/LaVonne_LaRue_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
