@@ -19,6 +19,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="collapse">
                     <ul class="nav navbar-nav">
+                        <!-- <li><a href="home.php">Home</a></li> --> <!-- 1 -->
                         <li><a href="startingOver.php">Starting over</a></li> <!-- 1 -->
                         <li><a href="theRealYou.php">The real you</a></li> <!-- 2 -->
                         <li><a href="gettingOut.php">Getting out</a></li> <!-- 3 -->                
