@@ -4,13 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Are you unhitched?</title>
+    <title>Are you Living Unhitched?</title>
     <link href='http://fonts.googleapis.com/css?family=Poiret+One|Raleway' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
-    <script type="text/javascript" src="//use.typekit.net/bvf8dlb.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100' rel='stylesheet' type='text/css'>
+    
   </head>
   <body id="home">
         <?php include '_/components/php/header.php';  ?>

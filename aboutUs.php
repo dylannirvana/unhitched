@@ -10,7 +10,7 @@
     <link href="_/css/mystyles.css" rel="stylesheet">
 
   </head>
-  <body id="home">
+  <body id="aboutUs">
     <section class="container">
         <?php include '_/components/php/header.php';  ?>
         <div class="content row">

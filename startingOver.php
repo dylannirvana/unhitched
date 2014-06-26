@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Moving on</title>
+    <title>Starting over</title>
     <link href='http://fonts.googleapis.com/css?family=Poiret+One|Raleway' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
-  <body id="movingOn">
+  <body id="startingOver">
     <section class="container">
         <?php include '_/components/php/header.php'; ?>
         <div class="content row">
